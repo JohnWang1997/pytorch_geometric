@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 __version__ = '0.2.0'
-url = 'https://github.com/rusty1s/pytorch_geometric'
+url = 'https://github.com/nnzhan/pytorch_geometric'
 
 install_requires = [
     'numpy',
